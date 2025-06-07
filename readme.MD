@@ -376,5 +376,8 @@ def analyze_recommendation_quality(similarity_scores):
 3. Implementasi evaluation metrics yang lebih comprehensive seperti NDCG atau MAP
 4. Optimisasi vocabulary size dan preprocessing parameters
 
-Sistem rekomendasi yang dikembangkan telah berhasil mencapai tujuan awal dengan memberikan rekomendasi yang relevan dan akurat berdasarkan konten film. Dengan precision rate 80%, sistem ini dapat menjadi foundation yang solid untuk pengembangan lebih lanjut ke arah hybrid recommendation system.#   m o v i e s _ r e c s y s _ t m d b 5 0 0 0  
+Sistem rekomendasi yang dikembangkan telah berhasil mencapai tujuan awal dengan memberikan rekomendasi yang relevan dan akurat berdasarkan konten film. Dengan precision rate 80%, sistem ini dapat menjadi foundation yang solid untuk pengembangan lebih lanjut ke arah hybrid recommendation system.
+
+#   m o v i e s _ r e c s y s _ t m d b 5 0 0 0 
+ 
  
